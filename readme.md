@@ -4,3 +4,4 @@
 
 * uso do comando git push
 # ADICIONANDO NOVA LINHA
+### Comando git fetch
